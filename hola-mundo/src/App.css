@@ -39,13 +39,23 @@
 }
 
 .md-followButton.is-following {
-    border: 1px solid red;
+    border: 1px solid #bbb;
+    background: transparent;
+    color: #fff;
+    width: 120px;
 }
 
 .md-followButton:hover {
-    background-color: #09f;
+    opacity: .8;
 }
 
 .md-followButton.is-following:hover {
-    background: red;
+    background-color: rgba(255, 0, 0, 0.178);
+    color: red;
+    border: 1px solir red;
+}
+
+.md-followCard-stopFollow {
+    display: none;
+
 }
