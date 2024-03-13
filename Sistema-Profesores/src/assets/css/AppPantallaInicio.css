@@ -3,3 +3,8 @@ h1 {
     background-image: linear-gradient(to right, #9B59B6, #b393d3);
     background-clip: text;
 }
+
+.wrap-layer{
+    position: static;
+    border: 1px solid red;
+ }
