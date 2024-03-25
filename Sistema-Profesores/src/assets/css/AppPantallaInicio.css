@@ -1,10 +1,18 @@
 h1 {
     color: transparent;
-    background-image: linear-gradient(to right, #923ab4, #cfbfdf);
+    background-image: linear-gradient(to right, #81689D, #FFD0EC);
     background-clip: text;
+    font-size: 3.2em;
+    line-height: 1.1;
 }
 
 .wrap-layer{
     position: relative;
     width: 1000px;
+ }
+
+.prueba{
+    width: 100%;
+    height: 100%;
+    background-color: red;
  }
