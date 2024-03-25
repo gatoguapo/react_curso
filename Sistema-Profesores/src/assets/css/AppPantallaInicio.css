@@ -1,7 +1,7 @@
 h1 {
-    color: transparent;
-    background-image: linear-gradient(to right, #81689D, #FFD0EC);
+    color: #FFD0EC;
     background-clip: text;
+    font-family: "Roboto", sans-serif;
     font-size: 3.2em;
     line-height: 1.1;
 }
