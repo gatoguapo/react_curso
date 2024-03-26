@@ -1,5 +1,6 @@
 import '../css/AppPantallaInicio.css'
 import { VistaMain } from './VistaMain'
+import { BotonPersonalizado } from '../components/BotonPersonalizado'
 
 export function AppPantallaInicio() {
     return (
