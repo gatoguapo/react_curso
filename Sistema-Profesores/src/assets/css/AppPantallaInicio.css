@@ -10,3 +10,26 @@ h1 {
     position: relative;
     width: 1000px;
  }
+
+ .main-layer{
+    border-radius: 10%;
+    border: #1F2544 solid 3px;
+    background-color: #FFD0EC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    top: 30%;
+    left: 23%;
+}
+
+.main-title {
+    font-family: "Open Sans", sans-serif;
+    position: absolute;
+    font-size: 1.8em;
+    top: 20%;
+    left: 34%;
+    color: #FFD0EC;
+}
