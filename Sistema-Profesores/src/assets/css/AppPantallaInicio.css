@@ -15,7 +15,7 @@ h1 {
     position: absolute;
     display: grid;
     grid-template-columns: 100%;
-    border-radius: 10%;
+    border-radius: 9%;
     border: #1F2544 solid 3px;
     background-color: #FFD0EC;
     width: 50%;
