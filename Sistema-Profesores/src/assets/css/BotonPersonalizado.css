@@ -1,0 +1,14 @@
+.persBtn {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    color: black;
+    font-size: 1.5em;
+    align-items: center;
+    display: flex;
+    border-radius: 0;
+}
+
+.persBtn-svg {
+    padding-right: 5%;
+}
