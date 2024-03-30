@@ -1,11 +1,9 @@
 import "../css/BotonPersonalizado.css"
 
-export function BotonPersonalizado({text, className, xmlns, viewBox, d, svgWidth, svgColor}) {
+export function BotonPersonalizado({text, icono, className}) {
     return (
         <button className={className}>
-            <svg xmlns={xmlns} viewBox={viewBox} width={svgWidth} fill={svgColor}>
-                <path d={d}/>
-            </svg>
+            {icono}
             {text}
         </button>
     )
