@@ -1,5 +1,5 @@
 import '../css/AppPantallaInicio.css'
-import { BotonPersonalizado } from '../components/BotonPersonalizado'
+import { BotonPersonalizado } from '../componentes/BotonPersonalizado'
 
 export function AppPantallaInicio() {
     return (
