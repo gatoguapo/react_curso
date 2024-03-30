@@ -6,9 +6,7 @@ export function AppPantallaInicio() {
     return (
             <div className='wrap-layer'>
                 <h1>Bienvenido</h1>
-                <div className="background-layer">
-                    <IconoBackground/>
-                </div>
+                <div className="background-layer"><IconoBackground/></div>
                 <div>
                     <h2 className="main-title">¿Qué quierés hacer?</h2>
                     <div className="main-layer">
